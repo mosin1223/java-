@@ -14,6 +14,6 @@ class ArayUtil{
 public class Q6 {
     public static void main(String args[]){
         int[] array = {10,20,30,40,50};
-        System.out.println("The max num from array is : "+ ArayUtil.maximum(array));
+        System.out.println("The maximum  num from array is : "+ ArayUtil.maximum(array));
     }
 }
